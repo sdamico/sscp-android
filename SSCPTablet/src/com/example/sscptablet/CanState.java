@@ -3,7 +3,7 @@ package com.example.sscptablet;
 public class CanState {
 	double speed;
 	
-	public CanState() {
+	public CanState() { 
 		speed = 0.0;
 	}
 	
