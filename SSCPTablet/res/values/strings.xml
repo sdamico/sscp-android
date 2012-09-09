@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SSCP Dashboard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">SSCP Dashboard</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_settings">SSCP Dashboard</string>
+    <string name="ip_address">IP Address</string>
+    <string name="button_save">Connect</string>
+
+</resources>
