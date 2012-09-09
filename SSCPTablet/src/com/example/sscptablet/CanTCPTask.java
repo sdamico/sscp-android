@@ -19,7 +19,7 @@ import android.os.AsyncTask;
  *
  */
 public class CanTCPTask extends AsyncTask<String, CanState, Void> {
-	public final static int PORT = 22222;
+	public final static int PORT = 22222; 
 	protected Dashboard dashboard;
 	
 	CanTCPTask(Dashboard dashboard)
